@@ -15,8 +15,9 @@ public class Application {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		JeuDevinette Game1 = new JeuDevinette();
+		Game1.partieEnCours();
 		
-		Game1.gameOn();
+		
 		
 	}
 
